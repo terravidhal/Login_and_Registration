@@ -1,0 +1,58 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* UTILES */
+.absolute{
+  position: absolute;
+}
+.relative{
+  position: relative;
+}
+i.icon-password{
+  right: 15px;
+  top: 35px;
+  cursor: pointer;
+}
+
+/***** REGISTER / LOGIN *******/
+#containers {
+  width: 40%;
+  margin: 40px auto;
+  border: 1px solid #ced4da;
+  padding-bottom: 10px;
+}
+#containers p {
+  margin-left: 22px;
+}
+form {
+  margin: 20px;
+}
+h2 {
+  text-decoration: underline;
+}
+.infos {
+  padding: 25px;
+}
+.mini_text {
+  font-size: 0.7rem;
+  list-style-type: none;
+  opacity: 0.6;
+}
+.text-infos ul{
+  padding-left: 3px;
+  margin-top: 5px;
+}
+.infos{
+  height: 5px;
+  margin: 10px 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+svg{
+  width: 20px;
+}
+
+
+
